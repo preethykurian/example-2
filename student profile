@@ -2,3 +2,6 @@ read student id
 read student name
 read studnet phone number
 read student course name
+read module 1 grade
+read module 2 grade
+read module 3 grade 
